@@ -1,6 +1,7 @@
 Hallo Git
 Hello von Parinaz
 Spiele: Werwolf
-Spiele: uno
+Spiele: uno, Joker
 Snacks: Nuesse
 Getraenke: Limo
+Kleidung:rot
