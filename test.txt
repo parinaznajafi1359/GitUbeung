@@ -5,3 +5,5 @@ Spiele: uno, Joker
 Snacks: Nuesse
 Getraenke: Limo
 Kleidung:rot
+Spielee:Hi
+movie
